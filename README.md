@@ -52,12 +52,15 @@ The following parts of speech were extracted and analyzed:
 
 ## Tools
 
-* Python
-* YouTube Data API
-* Pandas
-* NumPy
-* Scikit-learn
-* Matplotlib
+- Google Colab
+- Python
+- YouTube Data API
+- Pandas
+- NumPy
+- Kiwi (Korean NLP)
+- Scikit-learn
+- NetworkX
+- Matplotlib
 
 ## My Contributions
 
